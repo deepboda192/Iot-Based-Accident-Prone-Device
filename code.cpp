@@ -1,16 +1,4 @@
-/* 
 
-19-02-2019
- 
-The A. D. Patel Institute of Technology Hackathon Team from computer engineering 2nd year dept.
-
-
-TEAM ID : TG001068
-
-Definition Problem :IOT Based Accident Prone Device
-
-
-*/
 #include <Wire.h>
 #include <SoftwareSerial.h>
 #include <LiquidCrystal.h>
